@@ -5,6 +5,7 @@
 # unzip it, 
 ##########################################################
 
+# This is a commit added to GitHub
 
 echo Creating project directory structure
 sleep 2
